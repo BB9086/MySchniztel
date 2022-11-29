@@ -1,4 +1,4 @@
-# MySchniztel – Xamarine Native, ASP.NET Web API, SQL
+# MySchnitzel – Xamarine Native, ASP.NET Web API, SQL
 
 **About this app:**  With this app you can order food directly from the store nearest to you. After you log-in with the credentials and select the store from the list, you are redirected to shop pages and you can make an order. Push notifications are being used to notify the user when the order has been processed. The app uses location services to calculate the distance between the user and the stores. 
 
